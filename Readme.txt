@@ -1,15 +1,16 @@
-This projects shosws how to build your own little drinking game. 
+This projects shows how to build your own little drinking game. 
 I used Micropython for programming with Thonny IDE.
 
 The game is constructed for one to 6 players, you can easily adjust it.
 ALso i used a light mode in case you don't wanna play. 
-So you cann choose the second mode and the system will work as a light source.
-If your play the game, every player gets his own part of LEDs. In my version i used 35 LEDs, so if i play with six people everyone gets 6 LEDs except of the sixth person. 
+So you can choose the second mode and the system will work as a light source.
+If you play the game, every player gets his own part of LEDs. In my version i used 35 LEDs, so if i play with six people everyone gets 6 LEDs except of the sixth person. 
 The sixth person gets the rest, sometimes its one less or one more, then the others.
-The color changes randomly and only the person is highlighted which try it is.
+The color changes randomly and only the person is highlighted whichs try it is.
 
 Using Raspberry Pi Pico, WS2812b LEDs, OLED SSD1306 and some standard parts, like three push buttons, one switch, a blue LED and some resistors.
 Furtheremore i 3D designed and printed an enclosure for it.
+
 The Schemeatics are still in work and the 3D Design is availebel at the following link.
 https://a360.co/3DEzeFK
 
